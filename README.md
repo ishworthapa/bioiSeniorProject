@@ -8,3 +8,7 @@ Needs the following python packages:
 * matplotlib
 
 ## Usage:
+### executes the first program
+```
+python step1.py
+```
