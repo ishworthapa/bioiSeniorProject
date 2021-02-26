@@ -12,3 +12,5 @@ Needs the following python packages:
 ```
 python step1.py
 ```
+
+## github requires two factor authentication
