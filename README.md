@@ -1,4 +1,4 @@
-# bioiSeniorProject
+# bioiSeniorProject branchmain
 A short description about your project.
 
 ## Installation Requirements:
